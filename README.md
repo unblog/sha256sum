@@ -5,7 +5,7 @@ PS Script to Compute the hash value for a file by using a specified hash algorit
 
 ## Preface
 
-The purpose of this PowerShell Script is to Compute the hash value for a file or an image by using a specified hash algorithm and compare against origin fingerprint. To verify the hash signature is particularly useful for downloads. An ISO image or an archive file can be checked for integrity and authenticity after downloading. For this purpose, the developers publish fingerprints with this an image for the integrity and authenticity can be compared using the SHA256 hash or MD5 hash value. So that the unchanged origin and originality can be ensured without, as might be in case of a Man-in-the-middle attack.
+The purpose of this PowerShell Script is to Compute the hash value for a file or an image by using a specified hash algorithm and compare against origin fingerprint. To verify the hash signature is particularly useful for downloads. An ISO image or an archive file can be checked for integrity and authenticity. For this purpose, the developers publish fingerprints with this an image for the integrity can be compared using the SHA256 hash or MD5 hash value. So that the unchanged origin and originality can be ensured without, as might be in case of a Man-in-the-middle attack.
 
 ## Run the Script 
 On a Windows workstation with PowerShell 3.0 or newer.
