@@ -27,7 +27,7 @@ If you have problems, questions, ideas or suggestions, please contact my by post
 
 ## Git
 ```
-git clone https://github.com/donkey/sha256sum.git
+git clone https://github.com/unblog/sha256sum.git
 ```
 ## Addendum
 
